@@ -1,0 +1,11 @@
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\bin\Debug\netcoreapp2.0\ep24.web.deps.json
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\bin\Debug\netcoreapp2.0\ep24.web.runtimeconfig.json
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\bin\Debug\netcoreapp2.0\ep24.web.runtimeconfig.dev.json
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\bin\Debug\netcoreapp2.0\ep24.web.dll
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\bin\Debug\netcoreapp2.0\ep24.web.pdb
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.csprojAssemblyReference.cache
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.AssemblyInfoInputs.cache
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.AssemblyInfo.cs
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.dll
+C:\Users\Windows10\Desktop\unlook\unlocking-ep24-homework\ep24.web\obj\Debug\netcoreapp2.0\ep24.web.pdb
